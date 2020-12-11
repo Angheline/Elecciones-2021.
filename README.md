@@ -1,4 +1,4 @@
-### ¡Bienvenido a la página Elecciones 2021!
+## ¡Bienvenido a la página Elecciones 2021!
 **Proceso:**
 - Para la elaboración de la página tuvimos como usuario a la madre de una de las integrantes(Nadieza) y nos comento sus ideas acerca de lo que le gustaria incluir en la trivia.
 - Una vez con las ideas del cliente, procedimos a plasmar todo ello en un borrador, el borrador fue presentado y el cliente indico algunas correcciones.
