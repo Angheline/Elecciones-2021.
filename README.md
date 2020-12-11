@@ -8,7 +8,7 @@
 - Luego de tener nuestro HTML seguimos con nuestro código en Javascript y usamos los mismos recursos de aprendizaje anteriormente mencionados.
 - Por ultimo elaboramos el CSS de nuestra página, para ello nos basamos en la maqueta que habiamos elaborado en Figma.
 
-###Fotos del proceso de elaboración
+### Fotos del proceso de elaboración
 
 Plantilla 1:
 
