@@ -37,3 +37,6 @@ Plantilla 6:
 Plantilla 7:
 
 ![](https://i.imgur.com/k2lt4CX.jpg)
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiICPk5VlUAWOm5cTwFLrup%2FELECCIONES-2021%3Fnode-id%3D52%253A0" allowfullscreen></iframe>
